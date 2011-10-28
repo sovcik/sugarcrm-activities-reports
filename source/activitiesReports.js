@@ -60,10 +60,10 @@ function success(o) {
 		    })   
 		 };   
 	var myColumnDefs = [   
-	    {key:"type", label:SUGAR.language.get("Activities", "LBL_TYPE"),sortable:true, resizeable:true, width:150},   
-	    {key:"url", label:SUGAR.language.get("Activities", "LBL_SUBJECT"),sortable:true, resizeable:true, width:350},   
-	    {key:"date_start", label:SUGAR.language.get("Activities", "LBL_LIST_DATE"),sortable:true,resizeable:true, width:150},   
-	    {key:"status", label:SUGAR.language.get("Activities", "LBL_STATUS"),sortable:true, resizeable:true, width:100}   
+	    {key:"type", label:SUGAR.language.get("Calendar", "LBL_TYPE"),sortable:true, resizeable:true, width:150},   
+	    {key:"url", label:SUGAR.language.get("Calendar", "LBL_SUBJECT"),sortable:true, resizeable:true, width:350},   
+	    {key:"date_start", label:SUGAR.language.get("Calendar", "LBL_LIST_DATE"),sortable:true,resizeable:true, width:150},   
+	    {key:"status", label:SUGAR.language.get("Calendar", "LBL_STATUS"),sortable:true, resizeable:true, width:100}   
     ];   
               
     var myDataSource = new YAHOO.util.DataSource(results);   

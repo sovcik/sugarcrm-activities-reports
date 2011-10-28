@@ -25,5 +25,5 @@
  * governing these rights and limitations under the License.  Portions created
  * by SugarCRM are Copyright (C) 2004-2010 SugarCRM, Inc.; All Rights Reserved.
  * *******************************************************************************/
-$module_menu[]=Array("index.php?module=Activities&action=ActivitiesReports", $mod_strings['LBL_ACTIVITIES_REPORTS'],"ActivitiesReports", 'Reports');
+$module_menu[]=Array("index.php?module=Calendar&action=ActivitiesReports", $mod_strings['LBL_ACTIVITIES_REPORTS'],"ActivitiesReports", 'Calendar');
 ?>

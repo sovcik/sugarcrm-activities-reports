@@ -35,7 +35,7 @@
 	<tr>
 		<td style="padding-bottom: 2px;" colspan=6>
 			<form name="EditView" id="EditView" method="post" action="index.php">
-				<input type="hidden" name="module" value="Activities" />
+				<input type="hidden" name="module" value="Calendar" />
 				<input type="hidden" name="run_report" id="run_report" value="0" />
 				<input type="hidden" name="export_report" id="export_report" value="0" />
 				<input type="hidden" name="to_pdf" id="to_pdf" value="1" />
