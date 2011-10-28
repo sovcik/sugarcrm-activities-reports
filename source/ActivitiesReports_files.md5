@@ -1,0 +1,12 @@
+<?php
+// created: 2010-03-30 09:33:57
+$md5_string = array (
+  './LICENSE.txt' => 'ede0821c55505d1c68616dc37b522a66',
+  './en_us.activities_reports.php' => '1674f72c250fcd0a02b4f08e40d5fec3',
+  './ActivitiesReports.tpl' => '8e496254e6aa7b7514e3659f07ed05d3',
+  './new_activities_menu.ext.php' => '99339212a5121b8a0ab1a1fc85deb3ec',
+  './ActivitiesReports.php' => '9b81b22f867c34d7d75597d038b5ea4b',
+  './manifest.php' => '7b79e633deb23132e5ec05e008a5bf8a',
+  './activitiesReports.js' => 'd5006f0b8a9732f52f7096a84e27b922',
+);
+?>

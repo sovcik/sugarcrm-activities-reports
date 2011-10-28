@@ -1,0 +1,13 @@
+This is a modified version of original SugarCRM Activities Reports published on SugarForge at http://www.sugarforge.org/frs/?group_id=935.
+
+++How to install it:++
+1. Download module
+2. Start 'Module Loader' in SugarCRM administration
+3. Upload and install this module
+
+++How to use it:++
+1. Open SugarCRM 'Calendar' module
+2. In 'Calendar' menu click action 'Activities Reports'
+3. Select module you want to report on, e.g. 'User'
+4. Enter/select specific record, e.g. specific user
+5. Click 'Run Report'
